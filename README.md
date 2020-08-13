@@ -1,6 +1,6 @@
 # Fibonacci-Number-Again
 
-##Problem Description 
+## Problem Description 
 
 Task.: Given two integers 𝑛 and 𝑚, output 𝐹𝑛 mod 𝑚 (that is, the remainder of 𝐹𝑛 when divided by 𝑚). 
 
@@ -10,7 +10,7 @@ Constraints.: 1 ≤ 𝑛 ≤ 1014 , 2 ≤ 𝑚 ≤ 103 .
 
 Output Format.: Output 𝐹𝑛 mod 𝑚. 
 
-##Sample 1. 
+## Sample 1. 
 
 Input: 239 1000 
 
